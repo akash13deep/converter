@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2F795B18-13F5-4C92-99A4-3E8A74CB9253"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E2CD3D95-77E6-4D69-994D-DA0641A5F84C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "currencyconverter/CurrencyTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C7BB46C9-2774-4CEB-8466-7C1FD32E0AE2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "currencyconverter/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "convertButton(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C7BB46C9-2774-4CEB-8466-7C1FD32E0AE2 - 731e5d2bf8f0296a"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "currencyconverter.ViewController.convertButton(Any) -&gt; ()"
+                  moduleName = "currencyconverter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macstudent/Downloads/Archive/currencyconverter/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "1343">
+               </Location>
+               <Location
+                  uuid = "C7BB46C9-2774-4CEB-8466-7C1FD32E0AE2 - 731e5d2bf8f0296a"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "currencyconverter.ViewController.convertButton(Any) -&gt; ()"
+                  moduleName = "currencyconverter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macstudent/Downloads/Archive/currencyconverter/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "1735">
+               </Location>
+               <Location
+                  uuid = "C7BB46C9-2774-4CEB-8466-7C1FD32E0AE2 - 731e5d2bf8f0296a"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "currencyconverter.ViewController.convertButton(Any) -&gt; ()"
+                  moduleName = "currencyconverter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macstudent/Downloads/Archive/currencyconverter/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "2162">
+               </Location>
+               <Location
+                  uuid = "C7BB46C9-2774-4CEB-8466-7C1FD32E0AE2 - 731e5d2bf8f0296a"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "currencyconverter.ViewController.convertButton(Any) -&gt; ()"
+                  moduleName = "currencyconverter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macstudent/Downloads/Archive/currencyconverter/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "2586">
+               </Location>
+               <Location
+                  uuid = "C7BB46C9-2774-4CEB-8466-7C1FD32E0AE2 - 731e5d2bf8f0296a"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "currencyconverter.ViewController.convertButton(Any) -&gt; ()"
+                  moduleName = "currencyconverter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macstudent/Downloads/Archive/currencyconverter/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "3010">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
